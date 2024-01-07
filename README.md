@@ -14,8 +14,17 @@ Hi, I'm Mpho Chuene, a Web Developer and React-Native Developer 🚀 from Gauten
 - 👨🏽‍💻 I’m currently partcipating in as much Hackathons as I can
 - 🌱 I’m currently learning GraphQL and DevOps
 - 💬 Ask me about anything, I am happy to help
-- ⚡️ Fun-Fact: I am a graphic designer who does vector art using Adobe Illustrator👨🏼‍🎨
 - 📫 How to reach me: mphochuene42@gmail.com
+
+  ##### Fun fact: I once solved the world's oldest question with a single line of JavaScript
+<!-- wi*quL3fcV -->
+
+```javascript
+// Which came first: the chicken or the egg?
+console.log(['🥚', '🐣', '🐥', '🐔'].sort())
+
+>>> [ '🐔', '🐣', '🐥', '🥚' ]
+```
 
 
 **Languages and Tools:**   
@@ -27,6 +36,8 @@ Hi, I'm Mpho Chuene, a Web Developer and React-Native Developer 🚀 from Gauten
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+
+
 
 ![Mpho Chuene's github stats](https://github-readme-stats.vercel.app/api?username=mphoChuene&show_icons=true&theme=radical)
 
