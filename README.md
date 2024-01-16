@@ -12,7 +12,7 @@ Hi, I'm Mpho Chuene, a Web Developer and React-Native Developer 🚀 from Gauten
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently partcipating in as much Hackathons as I can
-- 🌱 I’m currently learning GraphQL and DevOps
+- 🌱 I’m currently learning Javascript data structures and algorithms
 - 💬 Ask me about anything, I am happy to help
 - 📫 How to reach me: mphochuene42@gmail.com
 
