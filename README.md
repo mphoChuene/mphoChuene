@@ -6,7 +6,7 @@
 
 <br/>
 
-Hi, I'm Mpho Chuene, a Web Developer and React-Native Developer 🚀 from Gauteng, South Africa🇿🇦, currently I am a Codetribe Software developer trainee👨🏽‍💻 at Mlab Southern Africa.
+Hi, I'm Mpho Chuene, a Data Engineer, Web Developer and React-Native Developer 🚀 from Gauteng, South Africa🇿🇦, currently I am a IT trainee👨🏽‍💻 at Old Mutual South Africa.
 
 
 **Talking about Personal Stuffs:**
